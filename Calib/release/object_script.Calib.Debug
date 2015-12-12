@@ -1,0 +1,12 @@
+INPUT(
+./debug\main.o
+./debug\mainwindow.o
+./debug\uart_handler.o
+./debug\device.o
+./debug\qcustomplot.o
+./debug\calib_table.o
+./debug\curve_analyzer.o
+./debug\moc_mainwindow.o
+./debug\moc_uart_handler.o
+./debug\moc_qcustomplot.o
+);

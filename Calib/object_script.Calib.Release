@@ -1,0 +1,15 @@
+INPUT(
+./release\main.o
+./release\mainwindow.o
+./release\uart_handler.o
+./release\device.o
+./release\qcustomplot.o
+./release\calib_table.o
+./release\curve_analyzer.o
+./release\curve.o
+./release\device_info.o
+./release\moc_mainwindow.o
+./release\moc_uart_handler.o
+./release\moc_qcustomplot.o
+./release\moc_device_info.o
+);
